@@ -9,27 +9,23 @@ const PHONE =
 export const ContactData = [
   {
     name: "Phone Call",
-    link: "tel:9509336954",
+    link: "tel:7995703923",
     logo: PHONE,
   },
   {
     name: "GitHub",
-    link: "https://github.com/nidhishpareek/",
+    link: "https://github.com/subhanikaithepalli",
     logo: GITHUB,
   },
   {
     name: "Gmail",
-    link: "mailto:pareek.np1@gmail.com",
+    link: "mailto:subhanikaithepalli28@gmail.com",
     logo: GMAIL,
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/nidhishpareek/",
+    link: "https://www.linkedin.com/in/subhani-kaithepalli-b4377024b/",
     logo: LINKEDIN,
   },
-//   {
-//     name: "Leetcode",
-//     link: "https://leetcode.com/NidhishPareek/",
-//     logo: LEETCODE,
-//   },
+
 ];

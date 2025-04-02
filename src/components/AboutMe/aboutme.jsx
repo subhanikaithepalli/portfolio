@@ -1,6 +1,6 @@
 import { Box, Flex, Image, Text } from "@chakra-ui/react";
 import { MyHeading } from "../Heading/Heading";
-import MyPhoto from "../../images/MyPhoto.png";
+import MyPhoto from "../../images/MyPhoto.jpg";
 import { AboutMeContent } from "../../AboutMeContent";
 import Aos from "aos";
 import { motion } from "framer-motion";

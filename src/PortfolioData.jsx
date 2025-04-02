@@ -1,5 +1,5 @@
-import netmeds from "./images/netmeds.png";
-import orbitz from "./images/orbitz.png";
+import Travel from "./images/Travel.png";
+import umai from "./images/umai.png";
 import weather from "./images/weather.png";
 import crickbuzz from "./images/crickbuzz.png";
 
@@ -8,45 +8,26 @@ import crickbuzz from "./images/crickbuzz.png";
 const PortfolioData = [
   {
     id: 1,
-    title: "Netmeds Clone",
+    title: "Tavel Agency",
     owner:'Group Project',
-    tagline: "A clone of netmeds.com where you can search products from limited database then add them to cart and checkout them.",
+    tagline: "The project is a user-friendly travel agency website designed to help users discover and book personalized travel experiences, offering easy navigation and seamless trip planning.",
     liveUrl: "https://teamnetlifyclone.netlify.app/",
     repositoryUrl: "https://github.com/nidhishpareek/NetMeds-Clone",
-    image: netmeds,
-    techStack:['React','Redux','Chakra-UI','EmailJS','Axios']
+    image: Travel,
+    techStack:['HTML 5','CSS 3','JAVASCRIPT','REACT','Bootstrap','jQuery']
   },
   {
     id: 2,
-    title: "Orbitz Clone",
+    title: "Umai Restaurant",
     owner:'Group Project',
-    tagline: "A clone website of orbitz.com, here you can search the letest departing flights between any destination, and then book the tickets.",
-    liveUrl: "https://quiet-begonia-af9b6e.netlify.app/",
-    repositoryUrl: "https://github.com/nidhishpareek/Orbitz-Clone",
-    image: orbitz,
-    techStack:['HTML 5','CSS 3','Advance JS', 'Fetch API', 'Bootstrap']
+    tagline: "The project is a beautifully designed website for Umaī Japanese Restaurant, making it easy for customers to explore the menu, and plan their next delicious dining experience.",
+    liveUrl: "https://umai-restaurant.netlify.app/",
+    repositoryUrl: "https://github.com/subhanikaithepalli/Umai_Restaurant?tab=readme-ov-file",
+    image: umai,
+    techStack:['HTML 5','CSS 3','JAVASCRIPT', 'REACT', 'Bootstrap']
   },
-  {
-    id: 3,
-    title: "Weather App",
-    owner:'Solo Project',
-    tagline: "A app with cool UI to provide you weather information, it can show you information according to your GPS location, or you can search any place.",
-    liveUrl: "https://super-elf-34752e.netlify.app/",
-    repositoryUrl: "https://github.com/nidhishpareek/Weather-App",
-    image: weather,
-    techStack:['HTML 5','CSS 3','Advance JS', 'Fetch API', 'Bootstrap']
-
-  },
-  {
-    id: 4,
-    title: "Crickbuzz Clone",
-    owner:'Group Project',
-    tagline: "A clone website of crickbuzz.com, in this website, you can login, stream static videos, login and subscribe to crickbuzz plus.",
-    liveUrl: "https://heroic-puffpuff-cbebb9.netlify.app/",
-    repositoryUrl: "https://github.com/nidhishpareek/CrickBuzz-Clone",
-    image: crickbuzz,
-    techStack:['HTML 5','CSS 3','Advance JS', 'Static-Website', 'Bootstrap']
-  },
+  
+  
   
 ];
 export default PortfolioData;

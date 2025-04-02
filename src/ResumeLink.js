@@ -1,2 +1,2 @@
 export const resume_link=
-  "https://drive.google.com/uc?id=1O1DkpU-3zp3TLxMwpDT-dRYagOfHOEAR&export=download?usp=share_link";
+  "https://drive.google.com/file/d/1-EydpaEZz4MzaASWCkLboXOsMfs2nC5X/view?usp=sharing";

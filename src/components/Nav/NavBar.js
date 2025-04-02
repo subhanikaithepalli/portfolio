@@ -1,8 +1,8 @@
 import { useState } from "react";
 // import NidhishDarkLogo from "../../images/NidhishDarkLogo1.png";
-import NidhishDarkLogo from "../../images/aj7cm-6cta1.svg";
+import NidhishDarkLogo from "../../images/aj7cm-6cta1.png";
 // import NidhishLightLogo from "../../images/NidhishLightLogo.png";
-import NidhishLightLogo from "../../images/aj7cm-6cta1.svg";
+import NidhishLightLogo from "../../images/aj7cm-6cta1.png";
 import './switchcss.css'
 import {
   useColorMode,
@@ -50,10 +50,11 @@ const NavBar = () => {
           onClick={() => scroll.scrollToTop()}
         >
           {/* Nidhish */}
-          <Image
+          { <Image
             src={isDark ? NidhishDarkLogo : NidhishLightLogo}
-            height="100px"
-          ></Image>
+            height="40px"
+            width="125px"
+          ></Image> }
         </Button>
       </Flex>
 
@@ -120,10 +121,10 @@ const NavBar = () => {
             w="100%"
             onClick={() => scroll.scrollToTop()}
           >
-            <Image
+            { <Image
               src={isDark ? NidhishDarkLogo : NidhishLightLogo}
               height="70px"
-            ></Image>
+            ></Image> }
           </Button>
         </Flex>
 

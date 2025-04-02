@@ -39,7 +39,7 @@ const Home = () => {
         animate="animate"
       >
         <Heading>Hi There, (^人^)</Heading>
-        <Heading>I’m Nidhish Pareek</Heading>
+        <Heading>I’m Subhani(スバニ)</Heading>
         <Text>I am a MERN stack developer. </Text>
         <Link
           className="home-btn"

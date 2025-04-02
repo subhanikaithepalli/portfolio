@@ -26,17 +26,6 @@ const ServicesData = [
       " REST APIs",
     ],
   },
-  {
-    title: "Solidworks",
-    icon: "https://cdn.iconscout.com/icon/free/png-256/solidworks-282892.png",
-    tags: [
-      "CAD",
-      "Mechine Design",
-      "Modelling",
-      "BIM",
-      "Simulation",
-      "Analysis",
-    ],
-  },
+  
 ];
 export default ServicesData;
