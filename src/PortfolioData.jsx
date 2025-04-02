@@ -11,8 +11,8 @@ const PortfolioData = [
     title: "Tavel Agency",
     owner:'Group Project',
     tagline: "The project is a user-friendly travel agency website designed to help users discover and book personalized travel experiences, offering easy navigation and seamless trip planning.",
-    liveUrl: "https://teamnetlifyclone.netlify.app/",
-    repositoryUrl: "https://github.com/nidhishpareek/NetMeds-Clone",
+    liveUrl: "https://travel-agency-mu-five.vercel.app/",
+    repositoryUrl: "https://github.com/subhanikaithepalli/Travel-Agency",
     image: Travel,
     techStack:['HTML 5','CSS 3','JAVASCRIPT','REACT','Bootstrap','jQuery']
   },
