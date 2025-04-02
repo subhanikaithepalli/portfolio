@@ -43,10 +43,7 @@ const SkillData = [
         skill: "PYTHON",
         image: PYTHON,
     },
-    {
-        skill: "SQL",
-        image: SQL,
-    },
+   
    
     
 ]
