@@ -8,7 +8,7 @@ import crickbuzz from "./images/crickbuzz.png";
 const PortfolioData = [
   {
     id: 1,
-    title: "Tavel Agency",
+    title: "Multicart",
     owner:'Group Project',
     tagline: "The project is a user-friendly e-commerce website designed to help users browse, filter, and purchase products easily, offering smooth navigation and a seamless shopping experience.",
     liveUrl: "https://multimartecommerce.netlify.app/",
