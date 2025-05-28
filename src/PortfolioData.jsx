@@ -1,7 +1,6 @@
 import Travel from "./images/ecommerce.png";
 import umai from "./images/umai.png";
-import weather from "./images/weather.png";
-import crickbuzz from "./images/crickbuzz.png";
+
 
 
 
