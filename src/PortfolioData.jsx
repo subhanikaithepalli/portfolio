@@ -1,4 +1,4 @@
-import Travel from "./images/Travel.png";
+import Travel from "./images/ecommerce.png";
 import umai from "./images/umai.png";
 import weather from "./images/weather.png";
 import crickbuzz from "./images/crickbuzz.png";
@@ -10,9 +10,9 @@ const PortfolioData = [
     id: 1,
     title: "Tavel Agency",
     owner:'Group Project',
-    tagline: "The project is a user-friendly travel agency website designed to help users discover and book personalized travel experiences, offering easy navigation and seamless trip planning.",
-    liveUrl: "https://travel-agency-mu-five.vercel.app/",
-    repositoryUrl: "https://github.com/subhanikaithepalli/Travel-Agency",
+    tagline: "The project is a user-friendly e-commerce website designed to help users browse, filter, and purchase products easily, offering smooth navigation and a seamless shopping experience.",
+    liveUrl: "https://multimartecommerce.netlify.app/",
+    repositoryUrl: "https://github.com/subhanikaithepalli/Multimart",
     image: Travel,
     techStack:['HTML 5','CSS 3','JAVASCRIPT','REACT','Bootstrap','jQuery']
   },
